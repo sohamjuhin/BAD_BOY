@@ -16,7 +16,7 @@ To run the provided code, you can follow these steps:
 
 7. Navigate to the directory where you saved the Python file using the `cd` command. For example, if the file is saved on your desktop, you can use the command `cd Desktop` to navigate to the desktop directory.
 
-8. Run the script by typing `python ad_generator.py` in the terminal or command prompt and pressing Enter.
+8. Run the script by typing `python NaughtyBoy.py` in the terminal or command prompt and pressing Enter.
 
 9. The code will execute, and you will see multiple browser tabs/windows opening, each loading the specified advertisement URL. The script will generate 10 ad windows in this case.
 
