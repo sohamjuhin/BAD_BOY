@@ -1,4 +1,4 @@
-# BAD_BOY
+# NaughtyBoy
 AD Ware
 To run the provided code, you can follow these steps:
 
