@@ -10,7 +10,7 @@ To run the provided code, you can follow these steps:
 
 4. Modify the `ad_url` variable to the desired advertisement URL. For example, you can replace `"https://example.com/advertisement"` with the actual URL of the advertisement you want to open.
 
-5. Save the file with a `.py` extension, such as `ad_generator.py`, in a location of your choice.
+5. Save the file with a `.py` extension, such as `NaughtyBoy.py`, in a location of your choice.
 
 6. Open a terminal or command prompt.
 
